@@ -11,7 +11,7 @@
   <a href="mailto:carlosmartins00098@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
-![Snake animation](https://github.com/carlosmartins00098/carlosmartins00098/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/CarlosMartins00098/CarlosMartins00098/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center">
   <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
