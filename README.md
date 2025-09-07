@@ -7,7 +7,7 @@
 
 ### Entrar em contato
 <div>
-  <a href="https://m.youtube.com/@carlosmartins0098"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"</a>
+  <a href="https://m.youtube.com/@carlosmartins00098"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"</a>
   <a href="mailto:carlosmartins00098@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
   <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
